@@ -7,3 +7,5 @@ This is my first comment.
 more things
 
 even more things
+
+Here are some edits from GitHub.com
